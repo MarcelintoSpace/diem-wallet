@@ -1,0 +1,9 @@
+/venv
+.pyre
+/build
+/dist
+__pycache__
+/src/*.egg-info
+
+# JetBrains IDEs configuration
+.idea
